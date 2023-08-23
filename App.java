@@ -76,19 +76,6 @@ public class App {
         // alertPrompt.alert_Prompt();
         // alertPrompt.endTest();
 
-       
-        
-        
-        
-        
-       
-
-
-      
-        
-        
-       
-        
     }
 
     public static void main(String[] args) throws InterruptedException, IOException {
